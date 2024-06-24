@@ -8,6 +8,6 @@
    ### After three weeks, I have become confident in STL and now moved to greedy problems. I am still practising more and more.
 
 
-    Checkpoint 1 includes the neetcode problems i was able to solve till 2 weeks. After that there is a separate folder for each work I did.
+    Checkpoint 1 includes the neetcode problems like two pointers and arrays and hashing basics. After that there is a separate folder for each work I did.
   
 #### For NEETCODE Problems: The main answer is the function which is called inside main() and therefore no importance is given to how the input is given as it is given by the neetcode website by itself.
